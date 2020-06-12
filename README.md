@@ -1,2 +1,2 @@
-# Sequ-ncia-de-Fibonacci
+# Sequencia-de-Fibonacci
 Programa feito para mostrar a sequência de Fibonacci em Python
